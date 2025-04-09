@@ -19,8 +19,8 @@ To run this project, you'll need Python 3.6 or later and the following packages:
 
 Clone this repository to your local machine:
 ```bash
-git clone https://github.com/yourusername/meat-freshness-detection.git
-cd meat-freshness-detection
+git clone https://github.com/2abet/Meat-Grader.git
+cd Meat-Grader
 ```
 
 Install the required Python packages:
@@ -31,7 +31,7 @@ pip install -r requirements.txt
 ## Usage
 To start the meat freshness detection, navigate to the project directory and run:
 ```bash
-python meat_freshness.py
+python prediction.py
 ```
 
 Make sure to update the `folder_path` variable in the script to point to the directory you want to monitor.
@@ -48,6 +48,6 @@ Contributions to this project are welcome! Here's how you can contribute:
 Specify the license under which your project is made available. (e.g., MIT, GPL, Apache, etc.)
 
 ## Contact
-Your Name – [@YourTwitter](https://twitter.com/YourTwitter) - email@example.com
+Your Name – Akinyemi Arabambi
 
-Project Link: [https://github.com/yourusername/meat-freshness-detection](https://github.com/yourusername/meat-freshness-detection)
+Project Link: [https://github.com/2abet/Meat-Grader](https://github.com/2abet/Meat-Grader)
